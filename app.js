@@ -4,6 +4,7 @@
 /* this
  * is
  * a
+ * awesome
  * multiline
  */
 var a = 3;
